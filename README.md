@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzalfian" alt="farzalfian" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="400" height="400" src="fian.jpeg">
+<img align="right" alt="Coding" width="250" height="250" src="fian.jpeg">
 
 - 🔭 I’m currently working on [Muslim-Taat](https://muslim-taat.vercel.app/)
 
