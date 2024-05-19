@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farza Alfiansyaha</h1>
-<h3 align="center"> Pelajar yang sedang belajar</h3>
+<h1 align="center">Hi 👋, I'm Farza Alfiansyah</h1>
+<h3 align="center"> Pelajar yang sedang belajar Frontend dan Backend</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzalfian" alt="farzalfian" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **farzaalfiansyah29@gmail.com**
 
-- ⚡ Fun fact **I think i funny XD**
+- ⚡ Fun fact **I think i handsome XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
