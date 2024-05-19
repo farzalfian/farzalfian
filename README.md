@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Farza Alfiansyah</h1>
-<h3 align="center">Hamba Allah,Kadang Taat kadang Sesat</h3>
+<h1 align="center">Hi 👋, I'm Farza Alfiansyaha</h1>
+<h3 align="center"> Pelajar yang sedang belajar</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<img align="right" alt="Coding" width="250" height="400" src="fian.jpeg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzalfian" alt="farzalfian" /></a> </p>
 
