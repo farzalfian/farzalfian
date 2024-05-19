@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farza Alfiansyah</h1>
 <h3 align="center"> Pelajar yang sedang belajar Frontend dan Backend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzalfian" alt="farzalfian" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farzalfian&show_icons=true&locale=en&layout=compact" alt="farzalfian" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
 <img align="right" alt="Coding" width="250" height="250" src="fian.jpeg">
