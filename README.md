@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farza Alfiansyah</h1>
-<h3 align="center"> Pelajar yang sedang belajar Frontend dan Backend</h3>
+<h3 align="center"> Kadang Frontend, kadang Fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="250" src="fian.jpeg">
 
-- 🔭 I’m currently working on [Muslim-Taat](https://muslim-taat.vercel.app/)
+- 🔭 I’m currently working on [Muslim-Taat](https://sam-lighting.vercel.app/)
 
 - 🌱 I’m currently learning **Frameworks, Mobile Development**
 
